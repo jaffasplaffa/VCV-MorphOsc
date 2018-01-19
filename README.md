@@ -1,5 +1,5 @@
 
-
+![jaffasplaffa morph osc](https://user-images.githubusercontent.com/14827192/35153583-680cca8a-fd27-11e7-9d36-1156b9a43992.png)
 
 # VCV-MorphOsc module by Jaffasplafa (Jakob Skouborg)
 
