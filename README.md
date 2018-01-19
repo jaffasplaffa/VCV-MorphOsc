@@ -5,10 +5,10 @@ This is an oscillator that creates the basic waveforms saw, sine and triangle an
 you morph between them, for all kinds of exotic waveforms. 
 
 # Parameters
-Pitch
-Breakpoint
-Rise & Fall
-Sin/Tri
+Pitch,
+Breakpoint,
+Rise & Fall,
+Sin/Tri,
 
 
 
